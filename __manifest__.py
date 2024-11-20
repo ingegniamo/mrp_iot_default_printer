@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Mrp iot default printer",
     
     'summary': "",
   
@@ -15,10 +15,10 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['iot','mrp'],
     
     # always loaded
-    'data': [],
+    'data': ['views/mrp_production.xml'],
 
     'application': False,
 }

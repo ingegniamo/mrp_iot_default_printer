@@ -1,19 +1,6 @@
-Title
+MRP Iot default printer
 =======
-
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Modulo che mette un campo "printer id" sulla produzione
 
 
 Credits
@@ -27,4 +14,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>
